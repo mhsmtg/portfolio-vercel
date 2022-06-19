@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    
+    .heavy { font: bold 50px sans-serif; fill: green;}
+    .Rrrrr { font: italic 50px serif; fill: red; }
+
+  </style>
+
+  <text x="0" y="40" class="heavy">H</text>
+  <text x="25" y="60" class="Rrrrr">M</text>
+</svg>
