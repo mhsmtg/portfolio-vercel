@@ -18,8 +18,6 @@ There are several ways to build and install revanced, yourself. I will be explai
 
 [Download Zulu JDK 17 Here](https://www.azul.com/downloads/?version=java-17-lts&package=jdk)
 
-
-
 ---
 
 [Watch the video tutorial here.](https://www.youtube.com/watch?v=iXW2yCz3z1U)
@@ -27,8 +25,6 @@ There are several ways to build and install revanced, yourself. I will be explai
 [Click here to go to Youtube video and follow along](https://www.youtube.com/watch?v=iXW2yCz3z1U)
 
 ---
-
-
 
 ### Method 1 - Manually
 
@@ -41,8 +37,6 @@ java -jar revanced-cli-<version>-all.jar -a <name_of_youtube_file>.apk -c  -o re
 ```
 5. You will see `revanced.apk` in the directory, just sideload or install like a normal app. That's it.
 
-
-
 ### Method 2 - Run the Script & Do Nothing
 
 1. Download the zip file, containing all the required files to build YouTube ReVanced. [Download Zip file from this folder](https://drive.google.com/drive/folders/1_gI1NDvLwS0ubXf3lSsFxpoaV77RCAwj)
@@ -50,13 +44,11 @@ java -jar revanced-cli-<version>-all.jar -a <name_of_youtube_file>.apk -c  -o re
 3. Incase you download the `Standalone.cmd` then just run it, it will automatically download the required files and generate YouTube Revanced.
 4. You will see `revanced.apk` in the directory, just sideload or install like a normal app. That's it.
 
-
-
-
+<br/><br/>
 ---
 **Disclaimer**
 
 Youtube is the property of Google Inc.<br/>Revanced is the property of ReVanced Team.<br/>I am not affliated with any of above.<br/>Above tutorial is only for educational purposes.
 
 ---
-<br/><br/>
+<br/>
