@@ -24,6 +24,7 @@ There are several ways to build and install revanced, yourself. I will be explai
 
 [Watch the video tutorial here.](https://www.youtube.com/watch?v=iXW2yCz3z1U)
 ---
+[Click here to go to Youtube video and follow along](https://www.youtube.com/watch?v=iXW2yCz3z1U)
 
 ---
 
@@ -31,50 +32,31 @@ There are several ways to build and install revanced, yourself. I will be explai
 
 ### Method 1 - Manually
 
-1. To manually build and install every thing you will need some files, stated as below:
-
-[YouTube APK, preferably 17.22.36](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-22-36-release/youtube-17-22-36-2-android-apk-download/)
-
-[ReVanced CLI](https://github.com/revanced/revanced-cli/releases/latest)
-
-[ReVanced Patches](https://github.com/revanced/revanced-patches/releases/latest)
-
-[ReVanced Integrations](https://github.com/revanced/revanced-integrations/releases/latest)
-
+1. To manually build and install every thing you will need some files, stated as below:<br/>[YouTube APK, preferably 17.22.36](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-22-36-release/youtube-17-22-36-2-android-apk-download/)<br/>[ReVanced CLI](https://github.com/revanced/revanced-cli/releases/latest) <br/>[ReVanced Patches](https://github.com/revanced/revanced-patches/releases/latest)<br/>[ReVanced Integrations](https://github.com/revanced/revanced-integrations/releases/latest)
 2. After you are done, place files in a common directory, for your ease.
-
 3. Now run command prompt/terminal **&** `cd` to the directory containing all your files.
-
 4. Type this command
-
 ```java
 java -jar revanced-cli-<version>-all.jar -a <name_of_youtube_file>.apk -c  -o revanced.apk -b revanced-patches-<version>.jar -m app-release-unsigned.apk --experimental
 ```
-
 5. You will see `revanced.apk` in the directory, just sideload or install like a normal app. That's it.
+
+
 
 ### Method 2 - Run the Script & Do Nothing
 
-1. Download the zip file, containing all the required files to build YouTube ReVanced.
-
-[Download Zip file from this folder](https://drive.google.com/drive/folders/1_gI1NDvLwS0ubXf3lSsFxpoaV77RCAwj)
-
+1. Download the zip file, containing all the required files to build YouTube ReVanced. [Download Zip file from this folder](https://drive.google.com/drive/folders/1_gI1NDvLwS0ubXf3lSsFxpoaV77RCAwj)
 2. Extract the zip file, and simply double click or run the `Run.cmd` script.
-
 3. Incase you download the `Standalone.cmd` then just run it, it will automatically download the required files and generate YouTube Revanced.
-
 4. You will see `revanced.apk` in the directory, just sideload or install like a normal app. That's it.
 
 
 
 
 ---
-Disclaimer
+**Disclaimer**
 
-Youtube is the property of Google Inc.
+Youtube is the property of Google Inc.<br/>Revanced is the property of ReVanced Team.<br/>I am not affliated with any of above.<br/>Above tutorial is only for educational purposes.
 
-Revanced is the property of ReVanced Team.
-
-I am not affliated with any of above.
-
-Above tutorial is only for educational purposes.
+---
+<br/><br/>
