@@ -3,7 +3,7 @@ title: YouTube ReVanced
 date: 2022/6/25
 description: How to Build & Install "Youtube ReVanced" Yourself (DIY)
 tag: hack, youtube, vanced, revanced
-author: You
+author: M. H. M.
 ---
 
 # YouTube ReVanced
@@ -15,13 +15,15 @@ Youtube ReVanced is the continuation of popular and now abadoned project Vanced.
 There are several ways to build and install revanced, yourself. I will be explaining some of the ways to build it, even without any programming/coding/command-line experience.
 
 **You will need Zulu JDK 17**
+
 [Download Zulu JDK 17 Here](https://www.azul.com/downloads/?version=java-17-lts&package=jdk)
 
 
 
---------------------------
+---
 
 [Watch the video tutorial here.](https://www.youtube.com/watch?v=iXW2yCz3z1U)
+---
 
 ---
 
@@ -32,8 +34,11 @@ There are several ways to build and install revanced, yourself. I will be explai
 1. To manually build and install every thing you will need some files, stated as below:
 
 [YouTube APK, preferably 17.22.36](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-22-36-release/youtube-17-22-36-2-android-apk-download/)
+
 [ReVanced CLI](https://github.com/revanced/revanced-cli/releases/latest)
+
 [ReVanced Patches](https://github.com/revanced/revanced-patches/releases/latest)
+
 [ReVanced Integrations](https://github.com/revanced/revanced-integrations/releases/latest)
 
 2. After you are done, place files in a common directory, for your ease.
@@ -63,9 +68,13 @@ java -jar revanced-cli-<version>-all.jar -a <name_of_youtube_file>.apk -c  -o re
 
 
 
-
+---
 Disclaimer
+
 Youtube is the property of Google Inc.
+
 Revanced is the property of ReVanced Team.
+
 I am not affliated with any of above.
+
 Above tutorial is only for educational purposes.
