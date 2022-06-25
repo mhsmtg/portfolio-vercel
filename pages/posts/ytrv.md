@@ -2,7 +2,7 @@
 title: YouTube ReVanced
 date: 2022/6/25
 description: How to Build & Install "Youtube ReVanced" Yourself (DIY)
-tag: hack, youtube, vanced, revanced
+tag: DIY, YouTube, ReVanced
 author: M. H. M.
 ---
 
