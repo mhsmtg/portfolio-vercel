@@ -8,7 +8,7 @@ author: M. H. M.
 
 # YouTube ReVanced
 
-Youtube ReVanced is the continuation of popular and now abadoned project Vanced.
+Youtube ReVanced is the continuation of popular and now abandoned project Vanced.
 
 **For now the YT ReVanced is aimed towards developers.**
 
